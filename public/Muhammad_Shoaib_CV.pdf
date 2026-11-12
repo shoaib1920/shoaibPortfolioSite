@@ -6,10 +6,10 @@ endobj
 << /Type /Pages /Kids [3 0 R] /Count 1 >>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> /Annots [6 0 R] >>
 endobj
 4 0 obj
-<< /Length 428 >>
+<< /Length 619 >>
 stream
 BT
 /F1 18 Tf
@@ -18,28 +18,38 @@ BT
 /F1 11 Tf
 0 -26 Td
 (Devtimize | Gulberg III, Lahore, Pakistan | shoaibliaqat318@gmail.com | +92 301 6672356) Tj
-0 -28 Td
+/F1 11 Tf
+0 -20 Td
+(Portfolio: https://shoaibportfoliosite-eta.vercel.app/) Tj
+/F1 11 Tf
+0 -20 Td
 (Summary: Full-stack engineer with 13 live client websites and 5 production AI products.) Tj
+/F1 11 Tf
 0 -20 Td
 (Stack: React, Next.js, TypeScript, Node.js, Python, FastAPI, PostgreSQL, Firebase, LLM APIs.) Tj
+/F1 11 Tf
 0 -20 Td
-(Education: BS Computer Science, Baba Guru Nanak University (2022 - 2026), CGPA 3.48 / 4.0.) Tj
+(Education: BS Computer Science, Baba Guru Nanak University \(2022 - 2026\), CGPA 3.48 / 4.0.) Tj
 ET
 endstream
 endobj
 5 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
 endobj
+6 0 obj
+<< /Type /Annot /Subtype /Link /Rect [108 691 336 704] /Border [0 0 0] /A << /S /URI /URI (https://shoaibportfoliosite-eta.vercel.app/) >> >>
+endobj
 xref
-0 6
+0 7
 0000000000 65535 f 
 0000000009 00000 n 
 0000000058 00000 n 
 0000000115 00000 n 
-0000000241 00000 n 
-0000000721 00000 n 
+0000000257 00000 n 
+0000000927 00000 n 
+0000000997 00000 n 
 trailer
-<< /Size 6 /Root 1 0 R >>
+<< /Size 7 /Root 1 0 R >>
 startxref
-789
+1154
 %%EOF

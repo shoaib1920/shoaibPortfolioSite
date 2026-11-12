@@ -1,7 +1,7 @@
 import type { SiteConfig } from '@/src/types';
 
 export const siteConfig: SiteConfig = {
-  baseUrl: 'https://devtimize.vercel.app',
+  baseUrl: 'https://shoaibportfoliosite-eta.vercel.app',
   name: 'Muhammad Shoaib',
   title: 'Full-Stack & AI Software Engineer',
   brand: 'Muhammad Shoaib',
